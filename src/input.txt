@@ -1,0 +1,4 @@
+hadoop java text hdfs
+tom jack java text
+job hadoop abc lusi
+hdfs tom text
